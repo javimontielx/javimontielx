@@ -6,7 +6,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
+
 - 🌱 I’m currently learning **c++ and pseint**
 
 - 💬 Ask me about **Maths | python**
@@ -54,6 +54,7 @@
 </p>
 
 ---
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' width="350" height="150" align='right'/>
 
 <h3 align="center">Languages and Tools:</h3>
 <a align="center" />
